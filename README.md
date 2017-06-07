@@ -1,15 +1,7 @@
-![DESaster object diagram](desaster_logo.png "Object diagram of DESaster")
+Adaptation by Meg Longman [University of Sheffield] of discrete event disaster recovery simulation built by Scott Miles [University of Washington.]
 
-A discrete event disaster recovery simulation built on top of the [Simpy](https://simpy.readthedocs.io/en/latest/) discrete event simulation Python library. 
+DESasterNep is a prototype simualtion of community recovery after earthquakes at a community and household level in Nepal.
 
-*Principal Investigator:* [Scott B. Miles](https://www.hcde.washington.edu/miles), [University of Washington](http://www.washington.edu), [Department of Human Centered Design and Engineering](https://www.hcde.washington.edu)
+See https://github.com/milessb/DESaster for the original code
 
-**Funding Support for DESaster**
-
-National Science Foundation, Critical Resilient Interdependent Infrastructure Systems and Processes Program, "Simulation-Based Hypothesis Testing of Socio-Technical Community Resilience Using Distributed Optimization and Natural Language Processing" #1541025
-
-
-National Science Foundation, Infrastructure Management and Extreme Events Program, "Modeling Post-Disaster Housing Recovery Integrating Performance Based Engineering and Urban Simulation" #1560939
-
-
-Washington Sea Grant, “Planning for Coastal Community Resilience to Tsunamis Using Transportation and Disaster Recovery Modeling”
+Background research on Nepalese recovery conducted as part of unpublished dissertation, please contact mlongman1@sheffield.ac.uk for more information
